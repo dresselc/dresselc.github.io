@@ -1,0 +1,47 @@
+Audio:
+Background ambience credit: suonidigallipoli, https://freesound.org/s/398443/
+Light switch toggle credit: ChrisTutorials, https://freesound.org/s/440498/
+Pick up trash sound credit: kanyonwyvern https://freesound.org/people/kanyonwyvern/sounds/697500/
+Throw away trash sound credit: Robinhood76 https://freesound.org/people/Robinhood76/sounds/75130/
+Crumpled Paper model credit: janexx, https://sketchfab.com/3d-models/crumbled-paper-c1a4b48d49dd402eb5731c93f130ce23
+Fire alarm credit: LPHypeR https://freesound.org/people/LPHypeR/sounds/509251/
+flickering light credit: scotchio https://freesound.org/people/scotchio/sounds/143915/
+Copier sound credit: iktinus https://freesound.org/people/iktinus/sounds/33265/
+Shooting game music credit: FoolBoyMedia https://freesound.org/people/FoolBoyMedia/sounds/320232/
+
+
+Models:
+Monitor model credit: Etherlyte https://sketchfab.com/3d-models/computer-monitor-d6c02c88cf574f9db8be40761a070b45
+White board model credit: SAHimu https://sketchfab.com/3d-models/whiteboard-1003476e433e4787875dde7a91d3d7cb#download
+Fire alarm model credit: Keaven https://sketchfab.com/3d-models/fire-alarm-6e69e33fff654cf896bf218e7c8325ac
+Apple Core model credit: Quixel
+Banana trash model credit: deep3dstudio, https://sketchfab.com/3d-models/peeled-banana-22-cad5da0a14ae43759cd9221dd6099bb9
+clock model credit: ploggy, https://sketchfab.com/3d-models/cc0-wall-clock-3-8c95c5e879f24f8294d9c8c25804ab95#download
+Copy Machine model credit, https://sketchfab.com/3d-models/low-poly-office-copy-machine-f6d56154ad87402e899f8a2df4b114d9
+Poster model credit, https://www.allenoverseas.com/blog/how-to-overcome-sleep-during-study-hours/
+Small tables credit: James, https://sketchfab.com/3d-models/school-table-b9dd161e5c7e44d889ab087a6041f74d
+Long school desks credit: I Never Asked for This https://sketchfab.com/3d-models/school-desk-76b2df62e78141ec903e153737904775
+R2D2 credit: Alex Z, https://sketchfab.com/3d-models/r2d2-lowpoly-907605d4ecb74bd98b9c97c0e160f2f7
+Composition notebook credit: Yanex Designs https://sketchfab.com/3d-models/roselle-composition-book-639955874f824bc381702faf7684d779
+Kirby credit: Miaru3d https://sketchfab.com/3d-models/kirby-feeec0f123924c2a99f6505a30b66043
+Waddle Dee credit: blooregard q kazoo https://sketchfab.com/3d-models/bandana-waddle-dee-e7f536c4d2aa460798f9007cb8fa19b1
+Kirby's laptop credit: ostrich https://sketchfab.com/3d-models/notebook-345a7ec44d9c42afb388384b342858e6
+light switch credit: Smoopy https://sketchfab.com/3d-models/old-light-switch-688a305c491242ccb6edc11967364838
+door credit: TastyShed https://sketchfab.com/3d-models/white-double-windowed-door-2d842a0f609245fb9bbe922669891ba4
+Solid Snake credit: https://sketchfab.com/3d-models/metal-gear-solid-phatom-pain-big-boss-mixamo-rig-8c788ef3a7e545afadc29d833052b7eb
+Space gun credit: nomercy.rms https://sketchfab.com/3d-models/space-gun-9eb795979f94409da80489eb140df188
+King Dedede credit: naviogutierrezdavid https://sketchfab.com/3d-models/king-dedede-figurine-ad64df06ba6c4789aadc4a06ef29889a
+Sir Kibble credit: naviogutierrezdavid https://sketchfab.com/3d-models/sir-kibble-3d277d4cc01f4731a1ac6a1066dafd39
+Metaknight credit: dgiang https://sketchfab.com/3d-models/metaknight-e6cedc79c64446bc88b01482cbde8b08
+Kirby model (used by Bullet_Blueprint) credit: ELATTAR Ayoub https://sketchfab.com/3d-models/kirby-sculpt-2f830e1c40244d30bd735c72af741510S
+Tree model credit: DJMaesen https://sketchfab.com/3d-models/oak-trees-d841c3bcc5324daebee50f45619e05fc
+Basement junk credit: Quixel
+Sidewalk credit: Quixel
+
+Materials:
+carpet: AmbientCG
+ceiling: AmbientCG
+wall paint: Quixel
+Sleeping kirby (poster) credit: any456111 https://www.colorslive.com/details/4785411
+Shooting game wallpaper (clouds) credit: Anna on Adobe Stock https://stock.adobe.com/search?k=pixel+clouds&asset_id=226051052
+Shooting game flooring (pixelated grass) credit: Raymond Schlitter https://www.slynyrd.com/blog/2019/8/27/pixelblog-20-top-down-tiles
